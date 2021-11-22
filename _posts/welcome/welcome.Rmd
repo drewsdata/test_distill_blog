@@ -4,8 +4,8 @@ description: |
   Welcome to our new blog, Demo Distill. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Test User 
-    url: https://example.com/norajones
+  - name: Upate User 
+    url: https://example.com/updateuser
     affiliation: Spacely Sprockets
     affiliation_url: https://example.com/spacelysprokets
 date: 11-22-2021
