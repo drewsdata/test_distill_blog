@@ -1,8 +1,7 @@
 ---
-title: "Welcome to Demo Distill"
+title: "My Fancy Distill Blog"
 description: |
-  Welcome to our new blog, Demo Distill. We hope you enjoy 
-  reading what we have to say!
+  Look at me, look at me!
 author:
   - name: Test User 
     url: https://example.com/updateuser
