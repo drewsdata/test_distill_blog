@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "My Fancy Distill Blog",
+    "description": "Look at me, look at me!",
+    "author": [
+      {
+        "name": "Test User",
+        "url": "https://example.com/updateuser"
+      }
+    ],
+    "date": "2021-11-22",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-11-24T19:48:46-08:00",
+    "input_file": "welcome.knit.md"
+  }
+]
